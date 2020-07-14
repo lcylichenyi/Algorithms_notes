@@ -22,3 +22,5 @@ func insertionSort(input []int) []int {
 }
 ```
 
+24页
+
